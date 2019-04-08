@@ -1,0 +1,12 @@
+RA 81/2015 Jelena Vesovic
+file sum
+video-0.avi	-3.0
+video-1.avi	-16.0
+video-2.avi	0.0
+video-3.avi	-58.0
+video-4.avi	-27.0
+video-5.avi	3.0
+video-6.avi	-70.0
+video-7.avi	12.0
+video-8.avi	-20.0
+video-9.avi	-1.0
